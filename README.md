@@ -1,4 +1,4 @@
-# VWorld NFT
+# VWorld
 
 ## Initial setup
 
